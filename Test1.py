@@ -35,3 +35,6 @@ if __name__ == "__main__":
     output_dir = r"C:\Users\吴永恒\Downloads\pdf_images"
 
     pdf_to_images_pymupdf(pdf_file, output_dir)
+
+
+#修改注释，用来测试git仓库代码修改和推送。---------1090963827
